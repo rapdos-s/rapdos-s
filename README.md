@@ -1,6 +1,14 @@
-### Hi there 👋
+<pre> 
+void  ft_print_hello(int lang_code)
+{
+  if (lang_code == 0)
+    write (1, "<b><spam style="color:red">Olá, eu sou o Raphael!</spam></b>\n", 24);
+  else if (lang_code == 1)
+    write (1, "<b>Hi, I'm Raphael!</b>\n", 17);
+}
+</pre>
+<b><p style="color:red">Olá, eu sou o Raphael!</p></b>
 
-<!--
 **rapdos-s/rapdos-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
