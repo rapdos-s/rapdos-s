@@ -4,6 +4,7 @@ rapdos-s | Raphael
   <a href="https://github.com/rapdos-s">
     <kbd>
       <img alt="Raphael" height="170" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/86138022?s=400&u=32675f62225816682d5b80d1bcba4815d90c9e85&v=4">
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rapdos-s&custom_title=GitHub Stats&theme=apprentice&include_all_commits=true&count_private=true&border_radius=3&hide_border=true&bg_color=3e3e3e&hide_rank=true"/>
     </kbd>
   </a>
 </div>
@@ -11,13 +12,13 @@ rapdos-s | Raphael
 <div align="center">
   <a href="https://github.com/rapdos-s">
   <kbd>
-      <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=rapdos-s&custom_title=GitHub Stats&theme=apprentice&include_all_commits=true&count_private=true&border_radius=3&hide_border=true&bg_color=3e3e3e&hide_rank=true"/>
     <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapdos-s&layout=compact&langs_count=7&theme=apprentice&border_radius=3&hide_border=true&bg_color=3e3e3e&hide=shell,powershell"/>
     </br>
     <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">
   </kbd>
   </a>
