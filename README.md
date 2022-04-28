@@ -1,12 +1,10 @@
 <div align="center">
-  <h3> rapdos-s | Raphael </h3>
   <a href="https://github.com/rapdos-s">
     <div>
       <img alt="Raphael" height="172" backgroundColor=FF0000 src="https://github.com/rapdos-s/rapdos-s/blob/main/Avatar%20Cel%20Shading.png?raw=true">
       <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rapdos-s&custom_title=GitHub Stats&theme=apprentice&include_all_commits=true&count_private=true&border_radius=15&hide_border=true&bg_color=3e3e3e&hide_rank=true"/>
     </div>
   </a>
-</br>
   <a href="https://github.com/rapdos-s">
   <div>
     <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapdos-s&layout=compact&langs_count=7&theme=apprentice&border_radius=15&hide_border=true&bg_color=3e3e3e&hide=shell,powershell"/>
