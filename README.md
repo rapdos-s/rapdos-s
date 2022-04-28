@@ -12,14 +12,14 @@ rapdos-s | Raphael
 <div align="center">
   <a href="https://github.com/rapdos-s">
   <kbd>
-    <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapdos-s&layout=compact&langs_count=7&theme=apprentice&border_radius=3&hide_border=true&bg_color=3e3e3e&hide=shell,powershell"/>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapdos-s&layout=compact&langs_count=7&theme=apprentice&border_radius=3&hide_border=true&bg_color=3e3e3e&hide=shell,powershell"/>
     </br>
-    <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/C-gray?&logo=c&logoColor=A8B9CC">
+    <img src="https://img.shields.io/badge/C%2B%2B-lightgray?logo=c%2B%2B&logoColor=00599C">
+    <img src="https://img.shields.io/badge/React-gray?logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Python-lightgray?logo=python&logoColor=3776AB">
+    <img src="https://img.shields.io/badge/JavaScript-gray?logo=javascript&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/CSS3-lightgray?logo=CSS3&logoColor=1572B6">
   </kbd>
   </a>
 </div>
