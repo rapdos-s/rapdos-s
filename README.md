@@ -1,18 +1,17 @@
 rapdos-s | Raphael
-
 <div align="center">
   <a href="https://github.com/rapdos-s">
-    <kbd>
-      <img alt="Raphael" height="170" style="border-radius:50px;" src="https://github.com/rapdos-s/rapdos-s/blob/main/Avatar%20Cel%20Shading.png?raw=true">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rapdos-s&custom_title=GitHub Stats&theme=apprentice&include_all_commits=true&count_private=true&border_radius=3&hide_border=true&bg_color=3e3e3e&hide_rank=true"/>
-    </kbd>
+    <div>
+      <img alt="Raphael" height="170" backgroundColor=FF0000 src="https://github.com/rapdos-s/rapdos-s/blob/main/Avatar%20Cel%20Shading.png?raw=true">
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rapdos-s&custom_title=GitHub Stats&theme=apprentice&include_all_commits=true&count_private=true&border_radius=15&hide_border=true&bg_color=3e3e3e&hide_rank=true"/>
+    </div>
   </a>
 </div>
 </br>
 <div align="center">
   <a href="https://github.com/rapdos-s">
   <kbd>
-    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapdos-s&layout=compact&langs_count=7&theme=apprentice&border_radius=3&hide_border=true&bg_color=3e3e3e&hide=shell,powershell"/>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapdos-s&layout=compact&langs_count=7&theme=apprentice&border_radius=15&hide_border=true&bg_color=3e3e3e&hide=shell,powershell"/>
     </br>
     <img src="https://img.shields.io/badge/C-gray?&logo=c&logoColor=A8B9CC">
     <img src="https://img.shields.io/badge/C%2B%2B-lightgray?logo=c%2B%2B&logoColor=00599C">
