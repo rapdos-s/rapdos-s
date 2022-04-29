@@ -46,16 +46,16 @@
 <h2>Find me</h2>
 
   <div>
-    <a title="user: rapdos-s | Raphael#4550" href="https://discordapp.com/users/797961558889070623/">
+    <a title="Discord user: rapdos-s | Raphael#4550" href="https://discordapp.com/users/797961558889070623/">
       <img src="https://img.shields.io/badge/| Discord-3e3e3e?style=flat-square&logo=discord&logoColor=white">
     </a>
-    <a title="mail: raphael.santos.esteves@gmail.com" href = "mailto:raphael.santos.esteves@gmail.com">
+    <a title="Mail: raphael.santos.esteves@gmail.com" href = "mailto:raphael.santos.esteves@gmail.com">
       <img src="https://img.shields.io/badge/| Mail-3e3e3e?style=flat-square&logo=gmail&logoColor=white">
     </a>
-    <a title="Profile: Raphael dos Santos Esteves" href="https://www.linkedin.com/in/rapdos-s/">
+    <a title="LinkedIn profile: Raphael dos Santos Esteves" href="https://www.linkedin.com/in/rapdos-s/">
       <img src="https://img.shields.io/badge/| LinkedIn-3e3e3e?style=flat-square&logo=linkedin&logoColor=white">
     </a>
-    <a title="Profile: rapdos-s" href="https://profile.intra.42.fr/users/rapdos-s">
+    <a title="42 profile: rapdos-s" href="https://profile.intra.42.fr/users/rapdos-s">
       <img src="https://img.shields.io/badge/| 42 São Paulo-3e3e3e?style=flat-square&logo=42&logoColor=white">
     </a>
   </div>
@@ -85,6 +85,7 @@
 
 • The username "rapdos" sounds like "fasterous" in Brazilian Portuguese;
 
-<img title="I did not decide yet..." src="https://readme-typing-svg.herokuapp.com/?width=500&height=30&font=Roboto&color=adbac7&vCenter=true&size=16&duration=4000&lines=%E2%80%A2+My+favorite+color+is+grey.;%E2%80%A2+No%2C+it's+actually+indigo.;%E2%80%A2+Come+to+think+of+it%2C+it's+really+grey.;%E2%80%A2+Or+indigo...;%E2%80%A2+Or...+Ok%2C+I+don't+know!;%E2%80%A2+Favorite+colors+are+hard...">
+<img title="An animated color joke." src="https://readme-typing-svg.herokuapp.com/?width=500&height=30&font=Roboto&color=adbac7&vCenter=true&size=16&duration=4000&lines=%E2%80%A2+My+favorite+color+is+grey.;%E2%80%A2+No%2C+it's+actually+indigo.;%E2%80%A2+Come+to+think+of+it%2C+it's+really+grey.;%E2%80%A2+Or+indigo...;%E2%80%A2+Or...+Ok%2C+I+don't+know!;%E2%80%A2+Favorite+colors+are+hard...">
 
 </details>
+<!-- Herobrine: I'm still here, boy. -->
