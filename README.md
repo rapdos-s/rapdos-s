@@ -9,12 +9,15 @@
     <img title="Most Used Languages" height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapdos-s&layout=compact&langs_count=7&theme=apprentice&border_radius=15&hide_border=true&bg_color=3e3e3e&hide=shell,powershell"/>
     </br>
     &nbsp;&nbsp;
-    <img title="C" src="https://img.shields.io/badge/C-3e3e3e?&logo=c&logoColor=white">
-    <img title="C++" src="https://img.shields.io/badge/C%2B%2B-3e3e3e?logo=c%2B%2B&logoColor=white">
-    <img title="CSS3" src="https://img.shields.io/badge/CSS3-3e3e3e?logo=CSS3&logoColor=white">
-    <img title="JavaScript" src="https://img.shields.io/badge/JavaScript-3e3e3e?logo=javascript&logoColor=white">
-    <img title="Node.js" src="https://img.shields.io/badge/Node.js-3e3e3e?logo=Node.js&logoColor=white">
-    <img title="React" src="https://img.shields.io/badge/React-3e3e3e?logo=react&logoColor=white">
+<!--    <img title="C" src="https://img.shields.io/badge/C-3e3e3e?&logo=c&logoColor=white">-->
+<!--    <img title="C++" src="https://img.shields.io/badge/C%2B%2B-3e3e3e?logo=c%2B%2B&logoColor=white">-->
+<!--    <img title="CSS3" src="https://img.shields.io/badge/CSS3-3e3e3e?logo=CSS3&logoColor=white">-->
+<!--    <img title="JavaScript" src="https://img.shields.io/badge/JavaScript-3e3e3e?logo=javascript&logoColor=white">-->
+<!--    <img title="Node.js" src="https://img.shields.io/badge/Node.js-3e3e3e?logo=Node.js&logoColor=white">-->
+<!--    <img title="React" src="https://img.shields.io/badge/React-3e3e3e?logo=react&logoColor=white">-->
+<!--    <img title="Python" src="https://img.shields.io/badge/Python-3e3e3e?logo=python&logoColor=white">-->
+<!--    <img title="Android" src="https://img.shields.io/badge/Android-3e3e3e?logo=android&logoColor=white">-->
+<!--    <img title="HTML5" src="https://img.shields.io/badge/HTML5-3e3e3e?logo=html5&logoColor=white">-->
   </div>
 
 <h2>Current projects</h2>
