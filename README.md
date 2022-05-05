@@ -30,7 +30,7 @@
 
 - [x] Test;
 - [x] Checkin;
-- [ ] Basecamp;
+- [x] Basecamp;
 - [ ] Formation;
 - [ ] Transcendence.
 
