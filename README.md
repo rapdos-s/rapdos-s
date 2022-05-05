@@ -29,10 +29,10 @@
 ###### • [42 São Paulo](https://www.42sp.org.br/ "42 São Paulo")
 
 - [x] Test;
-- [x] Checkin;
+- [x] Check-In;
 - [x] Basecamp;
-- [ ] Formation;
-- [ ] Transcendence.
+- [ ] Common Core;
+- [ ] Specialization.
 
 </details>
 <details>
