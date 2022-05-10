@@ -17,6 +17,7 @@
 <!--    <img title="React" src="https://img.shields.io/badge/React-3e3e3e?logo=react&logoColor=white">-->
 <!--    <img title="Python" src="https://img.shields.io/badge/Python-3e3e3e?logo=python&logoColor=white">-->
 <!--    <img title="Android" src="https://img.shields.io/badge/Android-3e3e3e?logo=android&logoColor=white">-->
+<!--    <img title="KaiOS" src="https://img.shields.io/badge/KaiOS-3e3e3e?logo=KaiOS&logoColor=white">-->
 <!--    <img title="HTML5" src="https://img.shields.io/badge/HTML5-3e3e3e?logo=html5&logoColor=white">-->
   </div>
 
