@@ -76,7 +76,7 @@
 
 😁 Bad Jokes;
 
-🧑‍🌾 Stardew Valley;
+🧑‍🌾 [Stardew Valley](https://steamcommunity.com/id/rapdos-s/ "Steam Profile");
 
 🥜 Peanut Candy.
 
