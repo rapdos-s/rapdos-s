@@ -71,7 +71,8 @@
   <summary>Personal tastes</summary>
 </br>
 
-♟️ Chess;
+♟️ [Chess](https://www.chess.com/member/rapdos-s "Chess.com Profile");
+
 
 😁 Bad Jokes;
 
