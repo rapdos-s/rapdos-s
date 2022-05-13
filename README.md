@@ -62,6 +62,10 @@
     <a title="42 profile: rapdos-s" href="https://profile.intra.42.fr/users/rapdos-s">
       <img src="https://img.shields.io/badge/| 42 São Paulo-3e3e3e?style=flat-square&logo=42&logoColor=white">
     </a>
+    </a>
+    <a title="Exercism profile: rapdos-s" href="https://exercism.org/profiles/rapdos-s">
+      <img src="https://img.shields.io/badge/| Exercism-3e3e3e?style=flat-square&logo=Exercism&logoColor=white">
+    </a>
   </div>
 </div>
 
@@ -78,7 +82,7 @@
 
 🧑‍🌾 [Stardew Valley](https://steamcommunity.com/id/rapdos-s/ "Steam Profile");
 
-🥜 Peanut Candy.
+🥜 Paçoca (Peanut Candy).
 
 </br>
 </details>
