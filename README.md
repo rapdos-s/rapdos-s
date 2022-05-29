@@ -33,7 +33,7 @@
 - [x] Check-In;
 - [x] Basecamp;
 
-- [x] 42Cursus-WarmUp-SP;
+- [x] Basecamp Reloaded;
 - [ ] Libft;
 - [ ] Get_Next_Line;
 - [ ] Printf;
