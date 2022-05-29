@@ -25,17 +25,36 @@
 
 <details>
 
-<summary>Basecamp at 42 São Paulo</summary>
+<summary>42 São Paulo</summary>
 
 ###### • [42 São Paulo](https://www.42sp.org.br/ "42 São Paulo")
 
 - [x] Test;
 - [x] Check-In;
 - [x] Basecamp;
-- [ ] Common Core;
+
+- [x] 42Cursus-WarmUp-SP;
+- [ ] Libft;
+- [ ] Get_Next_Line;
+- [ ] Printf;
+- [ ] Born2beroot;
+- [ ] Fractol / FDF / So_Long (Epikong);
+- [ ] Pipex / Minitalk;
+- [ ] Push_Swap;
+- [ ] Minishell;
+- [ ] Philosophers;
+- [ ] Netpractice;
+- [ ] Cub3D / Minirt;
+- [ ] CPP;
+- [ ] FT_Container;
+- [ ] Inception;
+- [ ] Webserv / FT_IRC;
+- [ ] Trancendence;
+
 - [ ] Specialization.
 
 </details>
+<!--
 <details>
 
 <summary>Tracks at Exercism</summary>
@@ -47,6 +66,7 @@
 - [ ] Hard exercises.
 
 </details>
+-->
 <h2>Find me</h2>
 
   <div>
