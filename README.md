@@ -29,30 +29,72 @@
 
 ###### • [42 São Paulo](https://www.42sp.org.br/ "42 São Paulo")
 
-- [x] Test;
-- [x] Check-In;
-- [x] Basecamp;
-
-- [x] Basecamp Reloaded;
-- [ ] Libft;
-- [ ] Get_Next_Line;
-- [ ] Printf;
-- [ ] Born2beroot;
-- [ ] Fractol / FDF / So_Long (Epikong);
-- [ ] Pipex / Minitalk;
-- [ ] Push_Swap;
-- [ ] Minishell;
-- [ ] Philosophers;
-- [ ] Netpractice;
-- [ ] Cub3D / Minirt;
-- [ ] CPP;
-- [ ] FT_Container;
-- [ ] Inception;
-- [ ] Webserv / FT_IRC;
-- [ ] Trancendence;
-
-- [ ] Specialization.
-
+<!--<img title="Phase One" height="150" align="left" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/phase_onem.png?raw=true">-->
+<!--<img title="Phase Two" height="150" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/phase_twom.png?raw=true">-->
+<!--<img title="Phase Three" height="150" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/phase_threem.png?raw=true">-->
+<!--<img title="common_core" height="150" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/common_coree.png?raw=true">-->
+<!--<details>-->
+<!--<summary>Phase One</summary>-->
+<!--<div>-->
+<!--    </br>-->
+<!--    <img title="libft" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/libftm.png?raw=true">-->
+<!--    <img title="get_next_line" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/get_next_linem.png?raw=true">-->
+<!--    <img title="ft_printf" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/ft_printfm.png?raw=true">-->
+<!--    <img title="born2beroot" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/born2berootm.png?raw=true">-->
+<!--    <img title="so_long" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/so_longm.png?raw=true">-->
+<!--    <img title="fract-ol" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/fract-olm.png?raw=true">-->
+<!--    <img title="fdf" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/fdfm.png?raw=true">-->
+<!--    <img title="pipex" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/pipexm.png?raw=true">-->
+<!--    <img title="minitalk" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/minitalkm.png?raw=true">-->
+<!--    </br>-->
+<!--</div>-->
+<!--</details>-->
+<!--<details>-->
+<!--<summary>Phase Two</summary>-->
+<!--<div>-->
+<!--    </br>-->
+<!--    <img title="push_swap" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/push_swapm.png?raw=true">-->
+<!--    <img title="minishell" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/minishellm.png?raw=true">-->
+<!--    <img title="philosophers" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/philosophersm.png?raw=true">-->
+<!--    <img title="netpractice" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/netpracticem.png?raw=true">-->
+<!--    <img title="cub3d" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/cub3dm.png?raw=true">-->
+<!--    <img title="minirt" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/minirtm.png?raw=true">-->
+<!--    </br>-->
+<!--</div>-->
+<!--</details>-->
+<!--<details>-->
+<!--<summary>Phase Three</summary>-->
+<!--<div>-->
+<!--    </br>-->
+<!--	<img title="cpp" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/cppm.png?raw=true">-->
+<!--	<img title="ft_containers" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/ft_containersm.png?raw=true">-->
+<!--	<img title="inception" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/inceptionm.png?raw=true">-->
+<!--	<img title="webserv" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/webservm.png?raw=true">-->
+<!--	<img title="ft_irc" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/ft_ircm.png?raw=true">-->
+<!--	<img title="ft_transcendence" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/ft_transcendencem.png?raw=true">-->
+<!--    </br>-->
+<!--</div>-->
+<!--</details>-->
+<!--<details>-->
+<!--<summary>Colaboration</summary>-->
+<!--<div>-->
+<!--    </br>-->
+<!--	<img title="events" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/eventsm.png?raw=true">-->
+<!--	<img title="voxotron" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/voxotronm.png?raw=true">-->
+<!--	<img title="evaluation" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/evaluationm.png?raw=true">-->
+<!--    </br>-->
+<!--</div>-->
+<!--</details>-->
+<!--<details>-->
+<!--<summary>Services</summary>-->
+<!--<div>-->
+<!--    </br>-->
+<!--	<img title="survey" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/surveym.png?raw=true">-->
+<!--	<img title="volunteer" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/volunteerm.png?raw=true">-->
+<!--	<img title="entrepreneur" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/entrepreneurm.png?raw=true">-->
+<!--    </br>-->
+<!--</div>-->
+<!--</details>-->
 </details>
 <!--
 <details>
@@ -67,6 +109,7 @@
 
 </details>
 -->
+
 <h2>Find me</h2>
 
   <div>
