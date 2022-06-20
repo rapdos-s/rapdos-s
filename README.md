@@ -79,9 +79,9 @@
 <!--<summary>Colaboration</summary>-->
 <!--<div>-->
 <!--    </br>-->
-<!--	<img title="events" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/eventsm.png?raw=true">-->
-<!--	<img title="voxotron" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/voxotronm.png?raw=true">-->
-<!--	<img title="evaluation" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/evaluationm.png?raw=true">-->
+<!--	<img title="events" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/eventsh.png?raw=true">-->
+<!--	<img title="voxotron" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/voxotronh.png?raw=true">-->
+<!--	<img title="evaluation" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/evaluationh.png?raw=true">-->
 <!--    </br>-->
 <!--</div>-->
 <!--</details>-->
@@ -89,9 +89,9 @@
 <!--<summary>Services</summary>-->
 <!--<div>-->
 <!--    </br>-->
-<!--	<img title="survey" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/surveym.png?raw=true">-->
-<!--	<img title="volunteer" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/volunteerm.png?raw=true">-->
-<!--	<img title="entrepreneur" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/entrepreneurm.png?raw=true">-->
+<!--	<img title="survey" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/surveyh.png?raw=true">-->
+<!--	<img title="volunteer" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/volunteerh.png?raw=true">-->
+<!--	<img title="entrepreneur" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/entrepreneurh.png?raw=true">-->
 <!--    </br>-->
 <!--</div>-->
 <!--</details>-->
