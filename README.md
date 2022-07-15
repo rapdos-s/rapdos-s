@@ -33,11 +33,11 @@
 <!--<img title="Phase Two" height="150" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/phase_twom.png?raw=true">-->
 <!--<img title="Phase Three" height="150" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/phase_threem.png?raw=true">-->
 <!--<img title="common_core" height="150" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/common_coree.png?raw=true">-->
-<!--<details>-->
-<!--<summary>Phase One</summary>-->
-<!--<div>-->
-<!--    </br>-->
-<!--    <img title="libft" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/libftm.png?raw=true">-->
+<details>
+<summary>Phase One</summary>
+<div>
+    </br>
+    <img title="libft" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/libftm.png?raw=true">
 <!--    <img title="get_next_line" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/get_next_linem.png?raw=true">-->
 <!--    <img title="ft_printf" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/ft_printfm.png?raw=true">-->
 <!--    <img title="born2beroot" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/born2berootm.png?raw=true">-->
@@ -46,9 +46,9 @@
 <!--    <img title="fdf" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/fdfm.png?raw=true">-->
 <!--    <img title="pipex" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/pipexm.png?raw=true">-->
 <!--    <img title="minitalk" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/minitalkm.png?raw=true">-->
-<!--    </br>-->
-<!--</div>-->
-<!--</details>-->
+    </br>
+</div>
+</details>
 <!--<details>-->
 <!--<summary>Phase Two</summary>-->
 <!--<div>-->
