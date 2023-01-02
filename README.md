@@ -1,7 +1,7 @@
 <div align="left">
   <div>
-    <img title="Raphael" height="172" src="https://github.com/rapdos-s/rapdos-s/blob/main/Avatar%20Cel%20Shading.png?raw=true">
-    <img title="Most Used Languages" height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapdos-s&layout=compact&langs_count=7&theme=apprentice&border_radius=15&hide_border=true&bg_color=3e3e3e&hide=shell,powershell"/>
+    <img title="Raphael" height="135" src="https://github.com/rapdos-s/rapdos-s/blob/main/Avatar%20Cel%20Shading.png?raw=true">
+    <img title="Most Used Languages" height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapdos-s&layout=compact&langs_count=7&theme=apprentice&border_radius=8&hide_border=true&bg_color=3e3e3e&hide=shell,powershell"/>
   </div>
 </div>
 <div align="left">
