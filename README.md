@@ -1,15 +1,14 @@
 <div align="left">
   <div>
     <img title="Raphael" height="172" src="https://github.com/rapdos-s/rapdos-s/blob/main/Avatar%20Cel%20Shading.png?raw=true">
-    <img title="GitHub Stats" height="170em" src="https://github-readme-stats.vercel.app/api?username=rapdos-s&custom_title=GitHub Stats&theme=apprentice&include_all_commits=true&count_private=true&border_radius=15&hide_border=true&bg_color=3e3e3e&hide_rank=true"/>
+    <img title="Most Used Languages" height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapdos-s&layout=compact&langs_count=7&theme=apprentice&border_radius=15&hide_border=true&bg_color=3e3e3e&hide=shell,powershell"/>
   </div>
 </div>
 <div align="left">
   <div>
-    <img title="Most Used Languages" height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapdos-s&layout=compact&langs_count=7&theme=apprentice&border_radius=15&hide_border=true&bg_color=3e3e3e&hide=shell,powershell"/>
     </br>
     &nbsp;&nbsp;
-<!--    <img title="C" src="https://img.shields.io/badge/C-3e3e3e?&logo=c&logoColor=white">-->
+    <img title="C" src="https://img.shields.io/badge/C-3e3e3e?&logo=c&logoColor=white">
 <!--    <img title="C++" src="https://img.shields.io/badge/C%2B%2B-3e3e3e?logo=c%2B%2B&logoColor=white">-->
 <!--    <img title="CSS3" src="https://img.shields.io/badge/CSS3-3e3e3e?logo=CSS3&logoColor=white">-->
 <!--    <img title="JavaScript" src="https://img.shields.io/badge/JavaScript-3e3e3e?logo=javascript&logoColor=white">-->
