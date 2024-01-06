@@ -179,6 +179,7 @@
   </picture>
 </a>
 
+<!--
 <a href="https://exercism.org/profiles/rapdos-s">
   <picture>
     <source
@@ -195,7 +196,7 @@
     >
   </picture>
 </a>
-
+ -->
 <h2></h2> <!-- Line divisor -->
 
 <details>
