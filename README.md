@@ -112,18 +112,21 @@
 <details>
   <summary>Progress at 42 São Paulo</summary>
 
-![](https://geps.dev/progress/100?dangerColor=3e3e3e&warningColor=3e3e3e&successColor=3e3e3e) Humam Coder (2022-2023)
-
-![](https://geps.dev/progress/50?dangerColor=3e3e3e&warningColor=3e3e3e&successColor=3e3e3e) Bachelor (2024 - ????)
-
-![](https://geps.dev/progress/10?dangerColor=3e3e3e&warningColor=3e3e3e&successColor=3e3e3e) Master (???? - ????)
-
-
-![](https://geps.dev/progress/100?dangerColor=e3e3e3&warningColor=e3e3e3&successColor=e3e3e3) Humam Coder (2022-2023)
-
-![](https://geps.dev/progress/50?dangerColor=e3e3e3&warningColor=e3e3e3&successColor=e3e3e3) Bachelor (2024 - ????)
-
-![](https://geps.dev/progress/10?dangerColor=e3e3e3&warningColor=e3e3e3&successColor=e3e3e3) Master (???? - ????)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://geps.dev/progress/100?dangerColor=3e3e3e&warningColor=3e3e3e&successColor=3e3e3e"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://geps.dev/progress/100?dangerColor=aaaaaa&warningColor=aaaaaa&successColor=aaaaaa"
+  >
+  <img
+    alt="Humam Coder progress bar at 100%"
+    src="https://geps.dev/progress/100?dangerColor=3e3e3e&warningColor=3e3e3e&successColor=3e3e3e"
+  >
+</picture>
+Human Coder (2022-2023)
 
 
 </details>
