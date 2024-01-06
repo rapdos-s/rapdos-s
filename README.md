@@ -133,32 +133,29 @@
 
 <h2></h2>
 
-<details>
-  <summary>Personal tastes</summary>
-</br>
-
-♟️ [Chess](https://www.chess.com/member/rapdos-s "Chess.com Profile");
-
-
-😁 Bad Jokes;
-
-🧑‍🌾 [Stardew Valley](https://steamcommunity.com/id/rapdos-s/ "Steam Profile");
-
-🥜 Paçoca (Peanut Candy).
-
-</br>
-</details>
 -->
 
+<h2></h2> <!-- Line divisor -->
 
+<details>
+  <summary>Personal tastes</summary>
+
+  - ♟️ [Chess](https://www.chess.com/member/rapdos-s "Chess.com Profile");
+
+  - 😁 Bad Jokes;
+
+  - 🌾 [Stardew Valley](https://steamcommunity.com/id/rapdos-s/ "Steam Profile");
+
+  - 🥜 Paçoca (Peanut Candy).
+
+</details>
 
 <details>
   <summary>Fun facts!</summary>
-</br>
 
-• I learned to play acoustic guitar even though I didn't like to listen to music;
+  - 🎵 I learned to play acoustic guitar even though I didn't like to listen to music;
 
-• The username "**rapdos**" sounds like "**fasterous**" in Brazilian Portuguese;
+  - 🏃 The username "**rapdos**" sounds like "**fasterous**" in Brazilian Portuguese;
 
 </details>
 
