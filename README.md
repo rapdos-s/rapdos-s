@@ -110,23 +110,91 @@
 -->
 
 <h2>Find me</h2>
-<a href="default.asp">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://img.shields.io/badge/| Discord-222222?style=flat-square&logo=discord&logoColor=eeeeee"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://img.shields.io/badge/| Discord-eeeeee?style=flat-square&logo=discord&logoColor=222222"
-  >
-	<img
-  	alt="Discord user: rapdos-s | Raphael#4550"
-  	src="https://img.shields.io/badge/| Discord-222222?style=flat-square&logo=discord&logoColor=gray"
-	>
-</picture>
+
+<a href="mailto:raphael.santos.esteves@gmail.com">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/| Mail-3e3e3e?style=flat-square&logo=gmail&logoColor=e3e3e3"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://img.shields.io/badge/| Mail-e3e3e3?style=flat-square&logo=gmail&logoColor=3e3e3e"
+    >
+    <img
+  	  alt="Mail: raphael.santos.esteves@gmail.com"
+      src="https://img.shields.io/badge/| Mail-3e3e3e?style=flat-square&logo=gmail&logoColor=e3e3e3"
+    >
+  </picture>
 </a>
-</div>
+
+<a href="https://www.linkedin.com/in/rapdos-s/">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/| LinkedIn-3e3e3e?style=flat-square&logo=linkedin&logoColor=e3e3e3"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://img.shields.io/badge/| LinkedIn-e3e3e3?style=flat-square&logo=linkedin&logoColor=3e3e3e"
+    >
+    <img
+  	  alt="LinkedIn profile: Raphael dos Santos Esteves"
+      src="https://img.shields.io/badge/| LinkedIn-3e3e3e?style=flat-square&logo=linkedin&logoColor=e3e3e3"
+    >
+  </picture>
+</a>
+
+<a href="https://discordapp.com/users/797961558889070623/">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/| Discord-3e3e3e?style=flat-square&logo=discord&logoColor=e3e3e3"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://img.shields.io/badge/| Discord-e3e3e3?style=flat-square&logo=discord&logoColor=3e3e3e"
+    >
+    <img
+  	  alt="Discord user: rapdos-s | Raphael#4550"
+      src="https://img.shields.io/badge/| Discord-3e3e3e?style=flat-square&logo=discord&logoColor=e3e3e3"
+    >
+  </picture>
+</a>
+
+<a href="https://profile.intra.42.fr/users/rapdos-s">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/| 42 São Paulo-3e3e3e?style=flat-square&logo=42&logoColor=e3e3e3"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://img.shields.io/badge/| 42 São Paulo-e3e3e3?style=flat-square&logo=42&logoColor=3e3e3e"
+    >
+    <img
+  	  alt="42 profile: rapdos-s"
+      src="https://img.shields.io/badge/| 42 São Paulo-3e3e3e?style=flat-square&logo=42&logoColor=e3e3e3"
+    >
+  </picture>
+</a>
+
+<a href="https://exercism.org/profiles/rapdos-s">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/| Exercism-3e3e3e?style=flat-square&logo=Exercism&logoColor=e3e3e3"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://img.shields.io/badge/| Exercism-e3e3e3?style=flat-square&logo=Exercism&logoColor=3e3e3e"
+    >
+    <img
+  	  alt="Exercism profile: rapdos-s"
+      src="https://img.shields.io/badge/| Exercism-3e3e3e?style=flat-square&logo=Exercism&logoColor=e3e3e3"
+    >
+  </picture>
+</a>
 
 <h2></h2> <!-- Line divisor -->
 
