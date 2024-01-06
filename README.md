@@ -158,5 +158,16 @@
 
 <img title="An animated color joke." src="https://readme-typing-svg.herokuapp.com/?width=500&height=30&font=Roboto&color=adbac7&vCenter=true&size=16&duration=4000&lines=%E2%80%A2+My+favorite+color+is+grey.;%E2%80%A2+No%2C+it's+actually+indigo.;%E2%80%A2+Come+to+think+of+it%2C+it's+really+grey.;%E2%80%A2+Or+indigo...;%E2%80%A2+Or...+Ok%2C+I+don't+know!;%E2%80%A2+Favorite+colors+are+hard...">
 
-</details>
- Herobrine: I'm still here, boy.  -->
+</details> -->
+
+
+
+<details>
+  <summary>Fun facts!</summary>
+</br>
+
+• I learned to play acoustic guitar even though I didn't like to listen to music;
+
+• The username "**rapdos**" sounds like "**fasterous**" in Brazilian Portuguese;
+
+<!-- Herobrine: I'm still here, boy. -->
