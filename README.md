@@ -22,96 +22,21 @@
 
 <h2>Current projects</h2>
 
-<details>
-
-<summary>42 São Paulo</summary>
-
-###### • [42 São Paulo](https://www.42sp.org.br/ "42 São Paulo")
-
-<img title="Phase One" height="150" align="left" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/phase_onem.png?raw=true">
-<img title="Phase Two" height="150" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/phase_twom.png?raw=true">
-<img title="Phase Three" height="150" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/phase_threem.png?raw=true">
-<img title="common_core" height="150" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/common_coree.png?raw=true">
-<details>
-<summary>Phase One</summary>
-<div>
-    </br>
-    <img title="libft" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/libftm.png?raw=true">
-    <img title="get_next_line" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/get_next_linem.png?raw=true">
-    <img title="ft_printf" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/ft_printfm.png?raw=true">
-    <img title="born2beroot" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/born2berootm.png?raw=true">
-    <img title="so_long" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/so_longm.png?raw=true">
-    <img title="fract-ol" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/fract-olm.png?raw=true">
-    <img title="fdf" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/fdfm.png?raw=true">
-    <img title="pipex" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/pipexm.png?raw=true">
-    <img title="minitalk" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/minitalkm.png?raw=true">
-    </br>
-</div>
-</details>
-<details>
-<summary>Phase Two</summary>
-<div>
-    </br>
-    <img title="push_swap" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/push_swapm.png?raw=true">
-    <img title="minishell" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/minishellm.png?raw=true">
-    <img title="philosophers" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/philosophersm.png?raw=true">
-    <img title="netpractice" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/netpracticem.png?raw=true">
-    <img title="cub3d" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/cub3dm.png?raw=true">
-    <img title="minirt" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/minirtm.png?raw=true">
-    </br>
-</div>
-</details>
-<details>
-<summary>Phase Three</summary>
-<div>
-    </br>
-	<img title="cpp" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/cppm.png?raw=true">
-	<img title="ft_containers" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/ft_containersm.png?raw=true">
-	<img title="inception" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/inceptionm.png?raw=true">
-	<img title="webserv" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/webservm.png?raw=true">
-	<img title="ft_irc" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/ft_ircm.png?raw=true">
-	<img title="ft_transcendence" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/ft_transcendencem.png?raw=true">
-    </br>
-</div>
-</details>
-<details>
-<summary>Colaboration</summary>
-<div>
-    </br>
-	<img title="events" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/eventsh.png?raw=true">
-	<img title="voxotron" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/voxotronh.png?raw=true">
-	<img title="evaluation" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/evaluationh.png?raw=true">
-    </br>
-</div>
-</details>
-<details>
-<summary>Services</summary>
-<div>
-    </br>
-	<img title="survey" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/surveyh.png?raw=true">
-	<img title="volunteer" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/volunteerh.png?raw=true">
-	<img title="entrepreneur" height="100" src="https://github.com/rapdos-s/rapdos-s/blob/main/badges/entrepreneurh.png?raw=true">
-    </br>
-</div>
-</details>
-</details>
-
-<details>
-
-<summary>Tracks at Exercism</summary>
-
-###### • [C](https://exercism.org/profiles/radossa "C track at Exercism")
-
-- [ ] Easy exercises;
-- [ ] Medium exercises;
-- [ ] Hard exercises.
-
-</details>
 -->
 
 <details>
-  <summary>Progress at 42 São Paulo</summary>
+  <summary>Current projects</summary>
+</br>
 
+📝 [My README.md](https://github.com/rapdos-s/rapdos-s/ "My README.md");
+
+🔍 [Searching a project at 42](https://profile.intra.42.fr/users/rapdos-s "Searching a project at 42");
+
+</details>
+
+<details>
+  <summary>Progress at 42 São Paulo</summary>
+</br>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -127,8 +52,40 @@
   >
 </picture>
 Human Coder (2022-2023)
-
-
+</br>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://geps.dev/progress/1?dangerColor=3e3e3e&warningColor=3e3e3e&successColor=3e3e3e"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://geps.dev/progress/1?dangerColor=aaaaaa&warningColor=aaaaaa&successColor=aaaaaa"
+  >
+  <img
+    alt="Bachelor | RNCP6 progress bar at 1%"
+    src="https://geps.dev/progress/1?dangerColor=3e3e3e&warningColor=3e3e3e&successColor=3e3e3e"
+  >
+</picture>
+Bachelor | RNCP6 (2024-????)
+</br>
+<!--
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://geps.dev/progress/0?dangerColor=3e3e3e&warningColor=3e3e3e&successColor=3e3e3e"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://geps.dev/progress/0?dangerColor=aaaaaa&warningColor=aaaaaa&successColor=aaaaaa"
+  >
+  <img
+    alt="Humam Coder progress bar at 0%"
+    src="https://geps.dev/progress/0?dangerColor=3e3e3e&warningColor=3e3e3e&successColor=3e3e3e"
+  >
+</picture>
+Master | RNCP7 (????-????)
+-->
 </details>
 
 <h2>Find me</h2>
