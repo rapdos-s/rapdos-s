@@ -107,33 +107,26 @@
 - [ ] Hard exercises.
 
 </details>
-
+-->
 
 <h2>Find me</h2>
-
-  <div>
-    <a title="Discord user: rapdos-s | Raphael#4550" href="https://discordapp.com/users/797961558889070623/">
-      <img src="https://img.shields.io/badge/| Discord-3e3e3e?style=flat-square&logo=discord&logoColor=white">
-    </a>
-    <a title="Mail: raphael.santos.esteves@gmail.com" href = "mailto:raphael.santos.esteves@gmail.com">
-      <img src="https://img.shields.io/badge/| Mail-3e3e3e?style=flat-square&logo=gmail&logoColor=white">
-    </a>
-    <a title="LinkedIn profile: Raphael dos Santos Esteves" href="https://www.linkedin.com/in/rapdos-s/">
-      <img src="https://img.shields.io/badge/| LinkedIn-3e3e3e?style=flat-square&logo=linkedin&logoColor=white">
-    </a>
-    <a title="42 profile: rapdos-s" href="https://profile.intra.42.fr/users/rapdos-s">
-      <img src="https://img.shields.io/badge/| 42 São Paulo-3e3e3e?style=flat-square&logo=42&logoColor=white">
-    </a>
-    </a>
-    <a title="Exercism profile: rapdos-s" href="https://exercism.org/profiles/rapdos-s">
-      <img src="https://img.shields.io/badge/| Exercism-3e3e3e?style=flat-square&logo=Exercism&logoColor=white">
-    </a>
-  </div>
+<a href="default.asp">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/badge/| Discord-222222?style=flat-square&logo=discord&logoColor=eeeeee"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://img.shields.io/badge/| Discord-eeeeee?style=flat-square&logo=discord&logoColor=222222"
+  >
+	<img
+  	alt="Discord user: rapdos-s | Raphael#4550"
+  	src="https://img.shields.io/badge/| Discord-222222?style=flat-square&logo=discord&logoColor=gray"
+	>
+</picture>
+</a>
 </div>
-
-<h2></h2>
-
--->
 
 <h2></h2> <!-- Line divisor -->
 
