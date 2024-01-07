@@ -1,36 +1,32 @@
 <div align="left">
-  <img title="C" src="https://img.shields.io/badge/C-3e3e3e?&logo=c&logoColor=white">
-  <img title="C++" src="https://img.shields.io/badge/C%2B%2B-3e3e3e?logo=c%2B%2B&logoColor=white">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://img.shields.io/badge/C-3e3e3e?&logo=c&logoColor=e3e3e3"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://img.shields.io/badge/C-e3e3e3?&logo=c&logoColor=3e3e3e"
-  >
-  <img
-    alt="C"
-    src="https://img.shields.io/badge/C-3e3e3e?&logo=c&logoColor=e3e3e3"
-  >
-</picture>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://img.shields.io/badge/C%2B%2B-3e3e3e?&logo=c%2B%2B&logoColor=e3e3e3"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://img.shields.io/badge/C%2B%2B-e3e3e3?&logo=c%2B%2B&logoColor=3e3e3e"
-  >
-  <img
-    alt="C"
-    src="https://img.shields.io/badge/C%2B%2B-3e3e3e?&logo=c%2B%2B&logoColor=e3e3e3"
-  >
-</picture>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/C-3e3e3e?&logo=c&logoColor=e3e3e3"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://img.shields.io/badge/C-e3e3e3?&logo=c&logoColor=3e3e3e"
+    >
+    <img
+      alt="C"
+      src="https://img.shields.io/badge/C-3e3e3e?&logo=c&logoColor=e3e3e3"
+    >
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://img.shields.io/badge/C%2B%2B-3e3e3e?&logo=c%2B%2B&logoColor=e3e3e3"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://img.shields.io/badge/C%2B%2B-e3e3e3?&logo=c%2B%2B&logoColor=3e3e3e"
+    >
+    <img
+      alt="C"
+      src="https://img.shields.io/badge/C%2B%2B-3e3e3e?&logo=c%2B%2B&logoColor=e3e3e3"
+    >
+  </picture>
 </div>
 
 <h2>Current projects</h2>
