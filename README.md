@@ -1,32 +1,53 @@
 <div align="left">
+
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://img.shields.io/badge/C-3e3e3e?&logo=c&logoColor=e3e3e3"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://img.shields.io/badge/C-e3e3e3?&logo=c&logoColor=3e3e3e"
-    >
-    <img
-      alt="C"
-      src="https://img.shields.io/badge/C-3e3e3e?&logo=c&logoColor=e3e3e3"
-    >
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Assembly-3e3e3e">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Assembly-e3e3e3">
+    <img alt="Assembly language badge" title="Assembly">
   </picture>
+
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://img.shields.io/badge/C%2B%2B-3e3e3e?&logo=c%2B%2B&logoColor=e3e3e3"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://img.shields.io/badge/C%2B%2B-e3e3e3?&logo=c%2B%2B&logoColor=3e3e3e"
-    >
-    <img
-      alt="C"
-      src="https://img.shields.io/badge/C%2B%2B-3e3e3e?&logo=c%2B%2B&logoColor=e3e3e3"
-    >
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/| C-3e3e3e?&logo=C&logoColor=e3e3e3">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/| C-e3e3e3?&logo=C&logoColor=3e3e3e">
+    <img alt="C language badge" title="C">
   </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/| C%2B%2B-3e3e3e?&logo=C%2B%2B&logoColor=e3e3e3">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/| C%2B%2B-e3e3e3?&logo=C%2B%2B&logoColor=3e3e3e">
+    <img alt="C++ language badge" title="C++">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-3e3e3e">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Java-e3e3e3">
+    <img alt="Java language badge" title="Java">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/| Python-3e3e3e?&logo=Python&logoColor=e3e3e3">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/| Python-e3e3e3?&logo=Python&logoColor=3e3e3e">
+    <img alt="Python language badge" title="Python">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/| React-3e3e3e?&logo=React&logoColor=e3e3e3">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/| React-e3e3e3?&logo=React&logoColor=3e3e3e">
+    <img alt="React language badge" title="React">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AWS-3e3e3e">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AWS-e3e3e3">
+    <img alt="AWS language badge" title="AWS">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/| Git-3e3e3e?&logo=Git&logoColor=e3e3e3">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/| Git-e3e3e3?&logo=Git&logoColor=3e3e3e">
+    <img alt="Git language badge" title="Git">
+  </picture>
+
 </div>
 
 <h2>Current projects</h2>
