@@ -36,38 +36,13 @@
 
 <h2>Current projects</h2>
 
-📚 libasm at 42;
-
-🎮 Key Tester for PSP;
+📚 Bachelor (RNCP6) at 42 | 🎮 Key Tester for PSP
 
 <h2></h2> <!-- Line divisor -->
 
 <h2>Learning</h2>
 
-☁ AWS;
-
-☕ Java;
-
-🐍 Python;
-
-⚛ React;
-
-<h2>Progress at 42 São Paulo</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://geps.dev/progress/100?dangerColor=3e3e3e&warningColor=3e3e3e&successColor=3e3e3e">
-  <source media="(prefers-color-scheme: light)" srcset="https://geps.dev/progress/100?dangerColor=aaaaaa&warningColor=aaaaaa&successColor=aaaaaa">
-  <img alt="Humam Coder progress bar at 100%" title="Humam Coder progress bar at 100%" src="https://geps.dev/progress/100?dangerColor=3e3e3e&warningColor=3e3e3e&successColor=3e3e3e">
-</picture>
-Human Coder | 2022-2023
-</br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://geps.dev/progress/1?dangerColor=3e3e3e&warningColor=3e3e3e&successColor=3e3e3e">
-  <source media="(prefers-color-scheme: light)" srcset="https://geps.dev/progress/1?dangerColor=aaaaaa&warningColor=aaaaaa&successColor=aaaaaa">
-  <img alt="Bachelor | RNCP6 progress bar at 1%" title="Bachelor | RNCP6 progress bar at 1%" src="https://geps.dev/progress/1?dangerColor=3e3e3e&warningColor=3e3e3e&successColor=3e3e3e">
-</picture>
-Bachelor (RNCP6) | 2024-????
-</br>
+☁ AWS | ☕ Java | 🐍 Python | ⚛ React
 
 <h2>Find me</h2>
 
