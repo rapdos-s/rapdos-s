@@ -28,7 +28,6 @@
   <img alt="Python badge" title="Python" src="https://img.shields.io/badge/Python-3e3e3e?">
 </div>
 
-
 <h2>Find me</h2>
 
 <div align=left>
@@ -38,19 +37,19 @@
       <img alt="Mail: raphael.santos.esteves@gmail.com" title="Mail: raphael.santos.esteves@gmail.com" src="https://img.shields.io/badge/| Mail-3e3e3e?style=flat-square&logo=gmail&logoColor=e3e3e3">
     </a>
   </picture>
-  
+
   <picture>
     <a href="https://www.linkedin.com/in/rapdos-s/">
       <img alt="LinkedIn profile: Raphael dos Santos Esteves" title="LinkedIn profile: Raphael dos Santos Esteves" src="https://img.shields.io/badge/| LinkedIn-3e3e3e?style=flat-square&logo=linkedin&logoColor=e3e3e3">
     </a>
   </picture>
-  
+
   <picture>
     <a href="https://discordapp.com/users/797961558889070623/">
       <img alt="Discord user: rapdos-s | Raphael#4550" title="Discord user: rapdos-s | Raphael#4550" src="https://img.shields.io/badge/| Discord-3e3e3e?style=flat-square&logo=discord&logoColor=e3e3e3">
     </a>
   </picture>
-  
+
   <picture>
     <a href="https://profile.intra.42.fr/users/rapdos-s">
       <img alt="42 profile: rapdos-s" title="42 profile: rapdos-s" src="https://img.shields.io/badge/| 42 São Paulo-3e3e3e?style=flat-square&logo=42&logoColor=e3e3e3">
