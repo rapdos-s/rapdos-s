@@ -8,6 +8,7 @@
   <img alt="Python language badge" title="Python" src="https://img.shields.io/badge/| Python-3e3e3e?&logo=Python&logoColor=e3e3e3">
 </div>
 
+
 <h2>Current projects</h2>
 
 <div align=left>
@@ -26,6 +27,7 @@
   <img alt="Makefile badge" title="Makefile" src="https://img.shields.io/badge/Makefile-3e3e3e?">
   <img alt="Python badge" title="Python" src="https://img.shields.io/badge/Python-3e3e3e?">
 </div>
+
 
 <h2>Find me</h2>
 
