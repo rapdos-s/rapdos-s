@@ -19,13 +19,13 @@
 <h2>Learning</h2>
 
 <div align=left>
-<!--   <img alt="Angular badge" title="Angular" src="https://img.shields.io/badge/Angular-3e3e3e?"> -->
-<!--   <img alt="AWS badge" title="AWS" src="https://img.shields.io/badge/AWS-3e3e3e?"> -->
+  <img alt="Angular badge" title="Angular" src="https://img.shields.io/badge/Angular-3e3e3e?">
+  <img alt="AWS badge" title="AWS" src="https://img.shields.io/badge/AWS-3e3e3e?">
   <img alt="C/C++ badge" title="C/C++" src="https://img.shields.io/badge/C%2B%2B-3e3e3e?">
   <img alt="Clean Code badge" title="Clean Code" src="https://img.shields.io/badge/Clean Code-3e3e3e?">
-<!--   <img alt="Java badge" title="Java" src="https://img.shields.io/badge/Java-3e3e3e?"> -->
-<!--   <img alt="Makefile badge" title="Makefile" src="https://img.shields.io/badge/Makefile-3e3e3e?"> -->
-<!--   <img alt="Python badge" title="Python" src="https://img.shields.io/badge/Python-3e3e3e?"> -->
+  <img alt="Java badge" title="Java" src="https://img.shields.io/badge/Java-3e3e3e?">
+  <img alt="Makefile badge" title="Makefile" src="https://img.shields.io/badge/Makefile-3e3e3e?">
+  <img alt="Python badge" title="Python" src="https://img.shields.io/badge/Python-3e3e3e?">
   <img alt="JestJS badge" title="JestJS" src="https://img.shields.io/badge/JestJS-3e3e3e?">
 </div>
 
