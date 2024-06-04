@@ -2,21 +2,17 @@
 
 <div align=left>
   <img alt="C language badge" title="C" src="https://img.shields.io/badge/| C-3e3e3e?&logo=C&logoColor=e3e3e3">
+  <img alt="Python language badge" title="Python" src="https://img.shields.io/badge/| Python-3e3e3e?&logo=Python&logoColor=e3e3e3">
   <img alt="Rust language badge" title="Rust" src="https://img.shields.io/badge/| Rust-3e3e3e?&logo=Rust&logoColor=e3e3e3">
+  <img alt="SQLite language badge" title="SQLite" src="https://img.shields.io/badge/| SQLite-3e3e3e?&logo=SQLite&logoColor=e3e3e3">
 </div>
 
-<!--
 <h2>Current projects</h2>
 
 <div align=left>
+  <img alt="Labs at 42 São Paulo" title="Labs at 42 São Paulo" src="https://img.shields.io/badge/| Labs at 42 São Paulo-3e3e3e?style=flat-square&logo=42&logoColor=e3e3e3">
+</br>
   <img alt="Learning Rust" title="Learning Rust" src="https://img.shields.io/badge/| Learning Rust-3e3e3e?style=flat-square&logo=Rust&logoColor=e3e3e3">
-</div>
--->
-
-<h2>Learning</h2>
-
-<div align=left>
-  <img alt="Rust badge" title="Rust" src="https://img.shields.io/badge/Rust-3e3e3e?">
 </div>
 
 <h2>Find me</h2>
