@@ -7,7 +7,7 @@
 
 ### Current projects
 
-- Labs at 42 São Paulo
+- NULL
 
 <h2></h2> <!-- Line divisor -->
 
