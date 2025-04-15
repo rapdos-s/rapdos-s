@@ -1,13 +1,14 @@
 ### Main Hard Skills
 
 - C
-- Python
 
 <h2></h2> <!-- Line divisor -->
 
 ### Current projects
 
-- NULL
+- Trimui: Trimui Next
+- 42: ft_turing
+- 42: Ready, Set, Boole!
 
 <h2></h2> <!-- Line divisor -->
 
