@@ -1,23 +1,26 @@
 ### Main Hard Skills
 
 - C
+- Python
+- Typescript
 
 <h2></h2> <!-- Line divisor -->
 
 ### Current projects
 
-- Trimui: Trimui Next
-- 42: ft_turing
-- 42: Ready, Set, Boole!
+- 🎮 Trimui: Trimui Next
+- 🚀 42: ft_turing
+- 🚀 42: Piscine ocaml
+- 🚀 42: Ready, Set, Boole!
 
 <h2></h2> <!-- Line divisor -->
 
 ### Find me
 
-- Mail: [raphael.santos.esteves@gmail.com](mailto:raphael.santos.esteves@gmail.com)
-- LinkedIn profile: [Raphael dos Santos Esteves](https://www.linkedin.com/in/rapdos-s/)
-- Discord user: [rapdos-s | Raphael#4550](https://discordapp.com/users/797961558889070623/)
-- 42 profile: [rapdos-s]([URL](https://profile.intra.42.fr/users/rapdos-s))
+- 🚀 42 profile: [rapdos-s]([URL](https://profile.intra.42.fr/users/rapdos-s))
+- 💬 Discord user: [rapdos-s | Raphael#4550](https://discordapp.com/users/797961558889070623/)
+- 👥 LinkedIn profile: [Raphael dos Santos Esteves](https://www.linkedin.com/in/rapdos-s/)
+- 📧 Mail: [raphael.santos.esteves@gmail.com](mailto:raphael.santos.esteves@gmail.com)
 
 <h2></h2> <!-- Line divisor -->
 
