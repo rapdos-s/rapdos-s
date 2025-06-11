@@ -1,3 +1,18 @@
+### About Me
+<details>
+  <summary>PT-BR</summary>
+  </br>
+
+  Desenvolvo um pouco de tudo, com foco no DevOps e backend.
+  Sou criador de conteúdo em diversas áreas, desenvolvedor de jogos por diversão, artesão por paixão e empreendedor por vocação.
+
+  ---
+</details>
+
+I work on a bit of everything, with a focus on DevOps and backend.
+I'm a content creator across multiple fields, a game maker for recreation, an artisan by dedication, and an entrepreneur by vocation.
+
+
 ### Main Hard Skills
 
 - C
