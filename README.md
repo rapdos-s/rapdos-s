@@ -15,9 +15,32 @@ I'm a content creator across multiple fields, a game maker for recreation, an ar
 
 ### Main Hard Skills
 
+<!-- Backend -->
 - C
 - Python
 - Typescript
+<!-- - Javascript -->
+<!-- - Lua -->
+
+<!-- Frontend -->
+<!-- - React -->
+
+<!-- Database -->
+<!-- - SQLite -->
+<!-- - PostgreSQL -->
+
+<!-- DevOps -->
+<!-- - Shell and Bash -->
+<!-- - Nginx -->
+<!-- - Makefile -->
+<!-- - Dockerfile and Docker Compose -->
+
+<!-- Game Dev -->
+<!-- - Nintendo Game Boy Advance -->
+<!-- - Sony PlayStation Portable -->
+<!-- - Nokia N95 -->
+<!-- - Trimui Smart -->
+
 
 <h2></h2> <!-- Line divisor -->
 
