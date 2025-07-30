@@ -93,7 +93,7 @@ I'm a `Content Creator` across multiple fields, a `Game Maker` for recreation, a
 <h2></h2>
 
 ### 📂 Current Projects
-![Dev kit for Sony PSP](https://img.shields.io/badge/-Dev_kit_for_Sony_PSP-003791?logo=playstationportable&logoColor=white)
+![Example](https://img.shields.io/badge/Future_project_example-gray)
 
 <h2></h2>
 
