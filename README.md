@@ -74,9 +74,6 @@ I'm a `Content Creator` across multiple fields, a `Game Maker` for recreation, a
 ![Frontend](https://img.shields.io/badge/Frontend-gray)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
-![Database](https://img.shields.io/badge/Database-gray)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) 
-
 ![DevOps](https://img.shields.io/badge/DevOps-gray)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
@@ -87,7 +84,6 @@ I'm a `Content Creator` across multiple fields, a `Game Maker` for recreation, a
 ### 🛠️ Just For Hobbie Skills
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 ![Makefile](https://img.shields.io/badge/-Makefile-8A8A8A?logo=make&logoColor=white)
 
 <h2></h2>
