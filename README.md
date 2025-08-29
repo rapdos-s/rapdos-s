@@ -1,67 +1,10 @@
-### About Me
-<details>
-  <summary>PT-BR</summary>
-  </br>
-
-  Desenvolvo um pouco de tudo, com foco no DevOps e backend.
-  Sou criador de conteúdo em diversas áreas, desenvolvedor de jogos por diversão, artesão por paixão e empreendedor por vocação.
-
-  ---
-</details>
-
-I work on a bit of everything, with a focus on DevOps and backend.
-I'm a content creator across multiple fields, a game maker for recreation, an artisan by dedication, and an entrepreneur by vocation.
-
-
-### Main Hard Skills
-
-- C
-- Python
-- Typescript
-
-<h2></h2>
-
-### Current projects
-
-- 🎮 Trimui: Trimui Next
-- 🚀 42: ft_turing
-- 🚀 42: Piscine ocaml
-- 🚀 42: Ready, Set, Boole!
-
-<h2></h2>
-
-### Find me
-
-- 🚀 42 profile: [rapdos-s]([URL](https://profile.intra.42.fr/users/rapdos-s))
-- 💬 Discord user: [rapdos-s | Raphael#4550](https://discordapp.com/users/797961558889070623/)
-- 👥 LinkedIn profile: [Raphael dos Santos Esteves](https://www.linkedin.com/in/rapdos-s/)
-- 📧 Mail: [raphael.santos.esteves@gmail.com](mailto:raphael.santos.esteves@gmail.com)
-
-<h2></h2>
-
-<details>
-  <summary>Personal tastes</summary>
-  </br>
-
-😁 Bad Jokes | 🥜 Paçoca (Peanut Candy) | 🎮 Sony PSP
-
-</details>
-
-<details>
-  <summary>Fun facts!</summary>
-  </br>
-
-🎵 I learned to play acoustic guitar even though I didn't like to listen to music;
-
-🏃 The username "**rapdos**" sounds like "**fasterous**" in Brazilian Portuguese;
-
-</details>
-
-<!-- NEW
 ### 👤 About Me
 
-I work on a bit of everything, with a focus on `DevOps` and `Backend`. <br />
-I'm a `Content Creator` across multiple fields, a `Game Maker` for recreation, an `Artisan` by dedication, and an `Entrepreneur` by vocation.
+I work on a bit of everything, with a focus on `DevOps` and `Backend`. <br /> <br />
+I'm a `Content Creator` across multiple fields, <br />
+a `Game Maker` for recreation, <br />
+an `Artisan` by dedication, <br />
+and an `Entrepreneur` by vocation.
 
 <h2></h2>
 
@@ -81,7 +24,7 @@ I'm a `Content Creator` across multiple fields, a `Game Maker` for recreation, a
 
 <h2></h2>
 
-### 🛠️ Just For Hobbie Skills
+### 🎮 Just For Hobbie Skills
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)
 ![Makefile](https://img.shields.io/badge/-Makefile-8A8A8A?logo=make&logoColor=white)
@@ -98,5 +41,3 @@ I'm a `Content Creator` across multiple fields, a `Game Maker` for recreation, a
 [![Discord user](https://img.shields.io/badge/-rapdos--s_|_Raphael%234550-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/797961558889070623/)
 [![LinkedIn profile](https://img.shields.io/badge/-LinkedIn_|_Raphael_dos_Santos_Esteves-0077B5?color=0077B5)](https://www.linkedin.com/in/rapdos-s/)
 [![Mail](https://img.shields.io/badge/-raphael.santos.esteves@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:raphael.santos.esteves@gmail.com)
-
--->
