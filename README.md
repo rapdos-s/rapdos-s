@@ -32,7 +32,9 @@ and an `Entrepreneur` by vocation.
 <h2></h2>
 
 ### 📂 Current Projects
-![Studying Discord.js](https://img.shields.io/badge/-Studying_Discord.js-F7DF1E?logo=javascript&logoColor=black)
+<!--
+  ![Studying Discord.js](https://img.shields.io/badge/-Studying_Discord.js-F7DF1E?logo=javascript&logoColor=black)
+-->
 
 <h2></h2>
 
