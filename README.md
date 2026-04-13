@@ -1,6 +1,8 @@
 ### 👤 About Me
 
-I work on a bit of everything, with a focus on `DevOps` and `Backend`. <br /> <br />
+Focused on `DevOps` and `Backend`, building and automating scalable systems. <br />
+Working with `TypeScript`, `Python`, and containerized environments to deliver `Backend` and `Infrastructure Solutions`. <br />
+
 I'm a `Content Creator` across multiple fields, <br />
 a `Game Maker` for recreation, <br />
 an `Artisan` by dedication, <br />
@@ -20,7 +22,6 @@ and an `Entrepreneur` by vocation.
 ![DevOps](https://img.shields.io/badge/DevOps-gray)
 ![Bash](https://img.shields.io/badge/-Bash-000000?logo=gnubash&logoColor=AAAAAA)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFFFFF)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=FFFFFF)
 
 <h2></h2>
 
@@ -32,12 +33,21 @@ and an `Entrepreneur` by vocation.
 <h2></h2>
 
 ### 📂 Current Projects
-![Personal Site](https://img.shields.io/badge/-Personal_Site-111111?logo=gnometerminal&logoColor=CCCCCC) <br />
-Personal website built with `React`, `TypeScript`, and `98.css`, using `Vite` for development and deployed via `GitHub Pages`.
 
-![Trimui Devkit](https://img.shields.io/badge/-Trimui_Devkit-111111?logo=gnometerminal&logoColor=CCCCCC) <br />
-This project is a fork of a `Zig-based` devkit for the `Trimui Smart`. <br />
-It replaces `Zig` with `Assembly` for syscalls, `C` for core functionality, and `Make` for the build system.
+#### 🌐 Personal Website
+Personal website focused on performance and minimal UI. <br />
+![React](https://img.shields.io/badge/-React-FFFFFF?logo=react&logoColor=0081A3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?logo=typescript&logoColor=007ACC)
+![Vite](https://img.shields.io/badge/-Vite-FFFFFF?logo=vite&logoColor=9135FF)
+![98.css](https://img.shields.io/badge/-98.css-FFFFFF?logo=css&logoColor=663399)
+![GitHub Pages](https://img.shields.io/badge/-GitHub_Pages-FFFFFF?logo=github&logoColor=181717)
+
+#### 🎮 Trimui Devkit
+Custom devkit improving low-level control and build process. <br />
+![C](https://img.shields.io/badge/-C-FFFFFF?logo=c&logoColor=00599C)
+![Assembly](https://img.shields.io/badge/-Assembly-FFFFFF?logo=assemblyscript&logoColor=007ACC)
+![Makefile](https://img.shields.io/badge/-Makefile-FFFFFF?logo=make&logoColor=444444)
+
 
 <h2></h2>
 
