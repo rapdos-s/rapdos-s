@@ -16,7 +16,7 @@ Backend: `TypeScript` `Python` <br />
 Frontend: `React` <br />
 DevOps: `Bash` `Docker` <br />
 
-Just For Hobbie Skills: `Makefile` `C` `Zig`
+Just For Hobbie Skills: `Makefile` `C`
 
 <h2></h2>
 
@@ -25,10 +25,6 @@ Just For Hobbie Skills: `Makefile` `C` `Zig`
 #### Personal Website
 Personal website focused on performance and minimal UI. <br />
 `React` `TypeScript` `Vite` `98.css` `GitHub Pages`
-
-#### Trimui Devkit
-Custom devkit improving low-level control and build process. <br />
-`Makefile` `Assembly` `C`
 
 
 <h2></h2>
