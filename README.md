@@ -1,12 +1,12 @@
 ### 👤 About Me
 
-Focused on `DevOps` and `Backend`, building and automating scalable systems. <br />
-Working with `TypeScript`, `Python`, and containerized environments to deliver `Backend` and `Infrastructure Solutions`. <br />
+Focused on **DevOps** and **Backend**, building and automating scalable systems. <br />
+Working with **TypeScript**, **Python**, and containerized environments to deliver **Backend** and **Infrastructure Solutions**. <br />
 
-I'm a `Content Creator` across multiple fields, <br />
-a `Game Maker` for recreation, <br />
-an `Artisan` by dedication, <br />
-and an `Entrepreneur` by vocation.
+I'm a **Content Creator** across multiple fields, <br />
+a **Game Maker** for recreation, <br />
+an **Artisan** by dedication, <br />
+and an **Entrepreneur** by vocation.
 
 <h2></h2>
 
