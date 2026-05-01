@@ -20,25 +20,25 @@ Just For Hobbie Skills: `Makefile` `C`
 
 <h2></h2>
 
-### 📂 Current Projects
+### 🗃 Current Projects
 
-#### Personal Website
+#### 📁 Personal Website
 Personal website focused on performance and minimal UI. <br />
 `React` `TypeScript` `Vite` `GitHub Pages`
 
-#### QuantumOrbit Website
+#### 📁 QuantumOrbit Website
 B2B interprise website focused on modern UI, branding and project showcase. <br />
 `React` `TypeScript` `Vite` `GitHub Pages`
 
-#### Spatial Ducks Website
+#### 📁 Spatial Ducks Website
 Creative organization website focused on projects, branding and community presence. <br />
 `React` `TypeScript` `Vite` `GitHub Pages`
 
-#### QuantumOrbit GitHub
+#### 📁 QuantumOrbit GitHub
 Organization GitHub management focused on infrastructure for bots, frameworks, platforms and developer tooling. <br />
 `GitHub` `Markdown`
 
-#### Spatial Ducks GitHub
+#### 📁 Spatial Ducks GitHub
 Organization GitHub management focused on preparation for performance-oriented devkits, engines and low-level projects. <br />
 `GitHub` `Markdown`
 
