@@ -1,0 +1,7 @@
+{
+  "favicon": "https://raw.githubusercontent.com/rapdos-s/rapdos-s/refs/heads/main/favicon.ico",
+  "companies": ["QuantumOrbit-Soft", "Spatial-Ducks"]
+  "role": "Full-stack Developer",
+  "primaryStack": ["TypeScript", "Python", "React", "Bash", "Docker"],
+  "secondaryStack": ["Makefile", "C"]
+}
